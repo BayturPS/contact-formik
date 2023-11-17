@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contact-formik/static/css/main.0642bdc5.css",
+    "main.js": "/contact-formik/static/js/main.c8eedf4b.js",
+    "static/js/787.d24b1edb.chunk.js": "/contact-formik/static/js/787.d24b1edb.chunk.js",
+    "static/media/Sun.svg": "/contact-formik/static/media/Sun.681607dcda2a01539a9a8a157ae74e6e.svg",
+    "static/media/Moon.svg": "/contact-formik/static/media/Moon.0a6a2b75ac51157455302ddcfca385c0.svg",
+    "index.html": "/contact-formik/index.html",
+    "main.0642bdc5.css.map": "/contact-formik/static/css/main.0642bdc5.css.map",
+    "main.c8eedf4b.js.map": "/contact-formik/static/js/main.c8eedf4b.js.map",
+    "787.d24b1edb.chunk.js.map": "/contact-formik/static/js/787.d24b1edb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0642bdc5.css",
+    "static/js/main.c8eedf4b.js"
+  ]
+}
